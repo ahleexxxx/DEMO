@@ -1,0 +1,3 @@
+"Text","🔴 Annulus"
+
+"Text","🟡 STJ"
